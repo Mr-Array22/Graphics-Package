@@ -1,0 +1,34 @@
+D:\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.exe.config
+D:\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.exe
+D:\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.pdb
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.AssemblyReference.cache
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.SuggestedBindingRedirects.cache
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.exe
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.pdb
+D:\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.exe.config
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.exe
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.pdb
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.AssemblyReference.cache
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.SuggestedBindingRedirects.cache
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.exe
+E:\ProgramsCoding\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.pdb
+E:\Series\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.exe.config
+E:\Series\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.exe
+E:\Series\Graphic Packages\graphics package\graphics package\bin\Debug\graphics package.pdb
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.AssemblyReference.cache
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.SuggestedBindingRedirects.cache
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.exe
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics package.pdb
+E:\Series\Graphic Packages\graphics package\graphics package\obj\Debug\graphics_package.Form2.resources
